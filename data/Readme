@@ -1,0 +1,13 @@
+# Data (PubChem–ADMET processed CSVs)
+
+The processed PubChem–ADMET CSV files exceed GitHub’s per-file size limit (100 MB) and are therefore hosted externally on Google Drive.
+
+**Google Drive folder:**  
+https://drive.google.com/drive/folders/1YmDrDAioDM_o92VwLHdsJJIRb30usbLN?hl=ko
+
+## Files
+Download the following files and place them in this directory (`admet_finetune/data/`):
+
+- `data.csv`
+- `data_filtered.csv`
+- `data_scaffold_5fold.csv`
